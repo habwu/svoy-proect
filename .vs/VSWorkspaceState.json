@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\calendar_olimp",
+    "\\classroom",
+    "\\classroom\\migrations",
+    "\\docs",
+    "\\files",
+    "\\main",
+    "\\manager",
+    "\\OlympiadAPI",
+    "\\raiting_system"
+  ],
+  "SelectedNode": "\\calendar_olimp\\views.py",
+  "PreviewInSolutionExplorer": false
+}
