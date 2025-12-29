@@ -1,0 +1,7 @@
+\.env
+/staticfiles/
+/celerybeat-schedule.db
+/dump.rdb
+/db.sqlite3
+.idea
+*.pyc
